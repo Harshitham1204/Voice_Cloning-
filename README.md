@@ -1,7 +1,6 @@
 # Voice_Cloning-
 AI-powered voice cloning technology that replicates human voices
 
-AI-Powered Voice Cloning Technology that Replicates Human Voices
 
 Description
 
